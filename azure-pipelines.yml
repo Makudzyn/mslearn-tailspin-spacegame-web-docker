@@ -2,7 +2,7 @@ trigger:
 - '*'
 
 variables:
-  webRepository: 'web'
+  webRepository: 'makudzynpipelinesjavascriptdocker'
   tag: '$(Build.BuildId)'
 
 stages:
